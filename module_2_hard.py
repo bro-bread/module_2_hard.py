@@ -13,5 +13,5 @@ for i in wiw :
                         iff.append(w)
                         iff.append(t)
 print(a)
-print(iff)
+print(*iff)
 
